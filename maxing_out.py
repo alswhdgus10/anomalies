@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 30 00:04:20 2018
-
-@author: 삼성컴퓨터
-"""
 
 import numpy as np
 import pandas as pd

@@ -28,7 +28,7 @@ nine_buffer = []
 ten_buffer = []
 
 for i in range(len(b)):
-    #10개 포트폴리오 구성
+    # Create 10 Portfolio
     first = b[i][:25]
     second = b[i][25:50]
     third = b[i][50:75]
